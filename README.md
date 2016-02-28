@@ -1,3 +1,5 @@
+#Exploratory Data Analysis - Assignment#1
+
 ## Introduction
 
 This assignment uses data from
@@ -112,3 +114,36 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+
+
+##**Submited Files**
+
+* plot1.R
+* plot2.R
+* plot3.R
+* plot4.R
+* README.md
+
+##**Instructions**
+
+
+1.	Checkout the code 
+
+2.	Download the data set
+
+https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
+
+3.	Unzip the data set into your local directory 
+
+4.	Load RStudio and set your working directory 
+
+5.	Load and run the R scripts using source("plot1.R"), source("plot2.R") and so on.
+
+Note: If you want to run a second time, you need to reset the mfrows to (1,1).
+
+##**Output Files**
+
+* plot1.png
+* plot2.png
+* plot3.png
+* plot4.png
